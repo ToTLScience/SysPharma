@@ -34,7 +34,7 @@ All input data are publicly available. Download to the `data/` directory:
 | File | Source | Description |
 |------|--------|-------------|
 | `Human.MitoCarta3.0.xls` | https://www.broadinstitute.org/mitocarta | MitoCarta 3.0 gene annotations |
-| `OmicsExpressionProteinCodingGenesTPMLogp1_23Q4.csv` | https://depmap.org | DepMap 23Q4 CRISPR Chronos scores |
+| `OmicsExpressionProteinCodingGenesTPMLogp1_23Q4.csv` | CCLE RNA-seq expression |
 | `CRISPRGeneEffect_23Q4.csv` | https://depmap.org | DepMap 23Q4 Chronos gene effect |
 | `mitchell_log2fc.csv` | MassIVE MSV000089282 | Drug-proteome atlas (Mitchell 2023) |
 | `mmc2_1.xlsx` | Li et al. 2021 Mol Cell (PXD024513) | Protein half-lives raw data |
