@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Systems Pharmacoproteomics of Mitochondrial Drug Targets in Colorectal Cancer
+Systems Pharmacoproteomics of Drug Targets in Colorectal Cancer
 Master analysis script (v6)
 
 Author: Tsz-Leung To (tto@alum.mit.edu)
