@@ -7,7 +7,7 @@ Analysis code and figure generation for:
 
 > **A Pharmacoproteomic Scoring Framework for Mitochondrial Drug Target Prioritization in Colorectal Cancer**
 >
-> Tsz-Leung To · *Molecular & Cellular Proteomics* (2026)
+> Tsz-Leung To · *submitted* (2026)
 
 ## Pipeline
 data/ files → analysis_v6.py → results/ CSVs → generate_figures.py → figures/ PDFs
