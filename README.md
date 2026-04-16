@@ -1,11 +1,11 @@
-# SysPharma — Systems Pharmacoproteomics of Mitochondrial Drug Targets in Colorectal Cancer
+# SysPharma — Systems Pharmacoproteomics of Drug Targets in Colorectal Cancer
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Analysis code and figure generation for:
 
-> **A Pharmacoproteomic Scoring Framework for Mitochondrial Drug Target Prioritization in Colorectal Cancer**
+> **A Pharmacoproteomic Scoring Framework for Drug Target Prioritization in Colorectal Cancer**
 >
 > Tsz-Leung To · *submitted* (2026)
 
@@ -27,9 +27,6 @@ This repository implements a six-dimension composite priority scoring framework 
 
 The framework scores **9,723 proteins** detected in the HCT116 drug-proteome atlas and ranks **50 MSigDB Hallmark gene sets** at the pathway level. Three therapeutic axes are nominated and characterized:
 
-- **BH3 Apoptosis** — BCL-W (rank #151) and MCL1 (rank #903)
-- **Mito-protease** — CLPX (#3,100), LONP1 (#1,023), CLPP (#9,340)
-- **Ferroptosis** — GPX4 (#1,019)
 
 ## Repository structure
 
@@ -144,19 +141,9 @@ Robustness of pathway rankings to weight choice is assessed by sampling 50,000 w
 | 6 | TNF-α Signaling via NF-κB | 0.511 |
 | 7 | Notch Signaling | 0.507 |
 | 8 | Androgen Response | 0.504 |
-| 9 | **Apoptosis** | **0.492** |
+| 9 | Apoptosis | 0.492 |
 | 10 | Epithelial Mesenchymal Transition | 0.491 |
 
-**Six nominated targets:**
-
-| Gene | Target | Score | Rank (of 9,723) |
-|------|--------|-------|-----------------|
-| BCL2L2 | BCL-W | 0.203 | #151 |
-| MCL1 | MCL1 | 0.119 | #903 |
-| GPX4 | GPX4 | 0.114 | #1,019 |
-| LONP1 | LONP1 | 0.114 | #1,023 |
-| CLPX | CLPX | 0.070 | #3,100 |
-| CLPP | CLPP | 0.023 | #9,340 |
 
 ## Citation
 
