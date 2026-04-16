@@ -2,7 +2,7 @@
 
 Code repository for:  
 **"A Pharmacoproteomic Scoring Framework for Mitochondrial Drug Target Prioritization in Colorectal Cancer"**  
-Tsz-Leung To — Independent Researcher, Boston, USA  
+Tsz-Leung To, Boston, USA  
 *Submitted to Molecular & Cellular Proteomics*
 
 ---
