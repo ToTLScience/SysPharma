@@ -165,7 +165,7 @@ Robustness of pathway rankings to weight choice is assessed by sampling 50,000 w
   author  = {To, Tsz-Leung},
   title   = {A Pharmacoproteomic Scoring Framework for Mitochondrial Drug
              Target Prioritization in Colorectal Cancer},
-  journal = {Molecular \& Cellular Proteomics},
+  journal = {Submitted},
   year    = {2026}
 }
 ```
