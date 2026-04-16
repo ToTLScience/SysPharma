@@ -34,7 +34,7 @@ All input data are publicly available. Download to the `data/` directory:
 | File | Source | Description |
 |------|--------|-------------|
 | `Human.MitoCarta3.0.xls` | https://www.broadinstitute.org/mitocarta | MitoCarta 3.0 gene annotations |
-| `OmicsExpressionProteinCodingGenesTPMLogp1_23Q4.csv` | CCLE RNA-seq expression |
+| `OmicsExpressionProteinCodingGenesTPMLogp1_23Q4.csv` | https://depmap.org | CCLE RNA-seq expression (TPM) |
 | `CRISPRGeneEffect_23Q4.csv` | https://depmap.org | DepMap 23Q4 Chronos gene effect |
 | `mitchell_log2fc.csv` | MassIVE MSV000089282 | Drug-proteome atlas (Mitchell 2023) |
 | `mmc2_1.xlsx` | Li et al. 2021 Mol Cell (PXD024513) | Protein half-lives raw data |
@@ -44,7 +44,7 @@ All input data are publicly available. Download to the `data/` directory:
 | `Table_S2_Jacques_et_al_accepted.xlsx` | Jacques et al. 2020 Genetics figshare 11873841 | ONC212 NALM6 proteomics |
 | `kudryashova_log2fc.csv` | Kudryashova et al. 2023 Data MDPI (PRIDE PXD041327) | ML210 MEF proteomics |
 | `BioPlex_HCT116_Network_5_5K_Dec_2019.tsv` | https://bioplex.hms.harvard.edu | BioPlex 3.0 HCT116 PPI network |
-| `h.all.v2023.1.Hs.symbols.gmt` | MSigDB https://www.gsea-msigdb.org | Hallmark gene sets |
+| `h.all.v2026.1.Hs.symbols.gmt` | MSigDB https://www.gsea-msigdb.org | Hallmark gene sets |
 
 ## Usage
 
