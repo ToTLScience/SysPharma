@@ -2,7 +2,7 @@
 """
 generate_figures.py — Generate all manuscript figures (Fig 1–5, Fig S1–S2).
 
-Systems Pharmacoproteomics of Mitochondrial Drug Targets in Colorectal Cancer
+Systems Pharmacoproteomics of Drug Targets in Colorectal Cancer
 Author: Tsz-Leung To (tto@alum.mit.edu)
 Repository: https://github.com/ToTLScience/SysPharma
 
