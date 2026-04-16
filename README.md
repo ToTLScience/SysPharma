@@ -25,7 +25,7 @@ This repository implements a six-dimension composite priority scoring framework 
 | **F** — Lability | 0.05 | Li 2021 | Binary: 1 if measured half-life < 8 h, else 0 |
 | **Z<sub>C</sub>** — Oxidation state | 0.05 | UniProt / LaRowe 2011 | \|Z<sub>C</sub> − compartment mean\|, MitoCarta-classified |
 
-The framework scores **9,723 proteins** detected in the HCT116 drug-proteome atlas and ranks **50 MSigDB Hallmark gene sets** at the pathway level. Three therapeutic axes are nominated and characterized:
+The framework scores **9,723 proteins** detected in the HCT116 drug-proteome atlas and ranks **50 MSigDB Hallmark gene sets** at the pathway level. 
 
 
 ## Repository structure
@@ -150,7 +150,7 @@ Robustness of pathway rankings to weight choice is assessed by sampling 50,000 w
 ```bibtex
 @article{To2026SysPharma,
   author  = {To, Tsz-Leung},
-  title   = {A Pharmacoproteomic Scoring Framework for Mitochondrial Drug
+  title   = {A Pharmacoproteomic Scoring Framework for  Drug
              Target Prioritization in Colorectal Cancer},
   journal = {Submitted},
   year    = {2026}
