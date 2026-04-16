@@ -150,7 +150,7 @@ Robustness of pathway rankings to weight choice is assessed by sampling 50,000 w
 ```bibtex
 @article{To2026SysPharma,
   author  = {To, Tsz-Leung},
-  title   = {A Pharmacoproteomic Scoring Framework for  Drug
+  title   = {A Pharmacoproteomic Scoring Framework for Drug
              Target Prioritization in Colorectal Cancer},
   journal = {Submitted},
   year    = {2026}
